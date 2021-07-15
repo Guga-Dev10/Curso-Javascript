@@ -2,3 +2,6 @@
 
 // o método "log" está dentro do objeto "Console"
 
+// Função console.log();
+
+console.log();

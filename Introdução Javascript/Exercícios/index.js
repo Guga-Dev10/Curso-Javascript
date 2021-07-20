@@ -5,4 +5,4 @@
 
 var nome = 'Gustavo';
 
-console.log("Meu nome é '", nome, "'. Estou aaprendendo Javascript às ", 10, "h da manhã!")
+console.log("Meu nome é '", nome, "'. Estou aaprendendo Javascript às ", 10, "h da manhã!");
